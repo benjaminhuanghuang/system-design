@@ -1,0 +1,6 @@
+.DS_store
+*.temp
+*.lock
+*.bin
+*.exe
+
